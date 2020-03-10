@@ -1,7 +1,7 @@
 ---
 title: Shooter
 image: /img/shooter.jpg
-album: true
+album: false
 date: 2020-03-10T17:46:33.150Z
 links":
   soundcloud:
