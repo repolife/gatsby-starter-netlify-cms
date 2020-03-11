@@ -46,6 +46,7 @@ intro:
     knowledge to anyone. This is an edit via identity...
 title: Great coffee with a conscience
 image: /img/shooter.jpg
+album: true
 date: 2020-03-11T03:37:44.919Z
 main:
   heading: Great coffee with no compromises
